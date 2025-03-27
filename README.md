@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plawangshishu.
-- 👀 I’m interested in full-stack development.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning data structure.
 - 💞️ I’m looking to collaborate on full-stack development.
 - 📫 How to reach me shishuplawang@gmail.com.
