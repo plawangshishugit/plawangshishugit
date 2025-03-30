@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning data structure.
 - 💞️ I’m looking to collaborate on full-stack development.
-- 📫 How to reach me shishuplawang@gmail.com.
+- 📫 How to reach me [Gmail](shishuplawang@gmail.com) [LinkedIn](https://www.linkedin.com/in/plawang-shishu-222624207/).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am a poet also.
 
