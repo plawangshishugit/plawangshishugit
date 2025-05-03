@@ -9,6 +9,11 @@
 <!--   <a href="https://plawangshishu.in"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a> -->
 </p>
 
+<p align="center"><strong> My Poetic Side</strong></p>
+
+<p align="center">
+  <a href="https://plawangshishu.quora.com/"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
+</p>
 
 
 ##  About Me
