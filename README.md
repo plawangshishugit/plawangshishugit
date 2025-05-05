@@ -20,7 +20,7 @@
 
  Pursuing Bachelor of Technology in Electronics and Communication Engineering with a specialization in the Internet of Things from IIIT Nagpur.  
  Passionate about Software Development, Deep Learning, and Machine Learning.  
- Always learning, always building.
+
 
 
 
