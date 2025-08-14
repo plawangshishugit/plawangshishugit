@@ -13,6 +13,10 @@
 
 <p align="center">
   <a href="https://plawangshishu.quora.com/"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
+  <a href="https://www.instagram.com/theyarevisible/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 
